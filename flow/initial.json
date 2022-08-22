@@ -1,0 +1,104 @@
+[
+    {
+        "keywords":  [
+            "hola",
+            "hola!",
+            "ola",
+            "ole",
+            "inicio",
+            "informacion",
+            "buenos días",
+            "buenas tardes",
+            "buenas noches",
+            "info",
+            "Info",
+            "buen día",
+            "buen dia",
+            "me dieron este número",
+            "me interesa",
+            "quisiera saber si venden",
+            "necesito saber"
+        ],
+        "key": "STEP_1"
+    },
+    {
+        "keywords":  [
+            "1",
+            "Uno",
+            "uno",
+            "shein",
+            "Info shein",
+            "Shein", 
+            "Chein",
+            "chein"
+            ],
+        "key": "STEP_2"
+    },
+    
+    {
+        "keywords":  [
+            "2",
+            "Dos",
+            "dos",
+            "Andrea",
+            "andrea", 
+            "calzado andrea"
+        ],
+        "key": "STEP_3"
+    },
+    {
+        "keywords":  [
+            "3",
+            "Tres",
+            "tres",
+            "Tuper",
+            "tuper",
+            "Tupper",
+            "tupper",
+            "Tupperware",
+            "Toper",
+            "toper"
+        ],
+        "key": "STEP_4"
+    },
+    {
+        "keywords":  [
+            "4",
+            "Cuatro",
+            "cuatro",
+            "Kuul",
+            "kuul",
+            "kul",
+            "cuul",
+            "tintes",
+            "Tintes"
+            
+        ],
+        "key": "STEP_5"
+    },
+    {
+        "keywords":  [
+            "5",
+            "Cinco",
+            "cinco",
+            "Referencias",
+            "referencias",
+            "Referencia",
+            "referencia"
+        ],
+        "key": "STEP_6"
+    },
+    {
+        "keywords":  [
+            "hablar con alguien",
+            "contactar",
+            "quiero hacer un pedido",
+            "quiero hacer una pregunta",
+            "una pregunta",
+            "quiero pedir",
+            "quiero comprar"
+            
+        ],
+        "key": "STEP_7"
+    }
+]

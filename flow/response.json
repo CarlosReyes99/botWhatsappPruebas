@@ -1,0 +1,88 @@
+{
+    "DEFAULT":{
+        "replyMessage":[
+            "*Nosotros somos wismos*  \n\n",
+            "Prueba escribiendo *hola* \n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_0":{
+        "replyMessage":[
+            "El flujo ha finalizado \n",
+            "pero puedes ver todo el codigo de este \n",
+            "repositorio en https://github.com/leifermendez/bot-whatsapp.git"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_1":{
+        "replyMessage":[
+            "¡Hola, buenos días! Se está comunicando a Wismos😺😺 Un gusto atenderle. \n",
+            "Por favor escriba lo que sea de su preferencia✨✨ Información sobre: \n",
+            "*1.-Shein* 😎💅\n",
+            "*2.-Andrea* 👠👡👢🥿👞👟🩰🥾🩴\n",
+            "*3.-Tupperware* 🏚\n",
+            "*4.-Linea Kuul (tintes)*👧🧒👩‍🦳👵👩‍🦰🧡💛💚💙\n",
+            "*5.-Referencias* 💯✨\n",
+            "6.-Hablar con alguien ☺🥰\n",
+            "Recuerde que contamos con local y mercancía en existencia para envío inmediato así mismo levantamos pedido según la marca a trabajar\n",
+            
+            "\n *escribe el número de la opción que desee para obtener información* \n*Saludos by Wismos*😸😸 "
+        ],
+        "media":"local.jpg",
+        "trigger":null
+        
+    },
+    "STEP_2":{
+        "replyMessage":[
+            "Todo lo trabajamos a precio a página \n Ingresamos pedido a principios, a mediados y a finales de cada mes 🌸 \n ",
+            "Manejamos el quetzal al 2.35 ... Es decir precio de página se divide entre 2.35 y será el número de quetzales a depositar .... 😸\n",
+            "Los pedidos tardan en llegar de 22 a 25 días allá con ustedes 🌸\n",
+            "Contamos con personas de confianza para sus envíos a todos Guatemala 🌸\n",
+            "Manejamos la forma de pago del 50% es decir deposita 50% a la hora de hacer su pedido y el otro 50% un día antes de que su mercadería salga de nuestro local🌸🫶🏽 "
+        ],
+        "media": "conversionShein.jpg",
+        "trigger":null
+    },
+    "STEP_3":{
+        "replyMessage":[
+            "Andrea lo manejamos al 20% de descuento y tardan 15 días en llegar a Guate🥰🥰✨"
+        ],
+        "media":"andrea.jpg",
+        "trigger":null
+    },
+    "STEP_4":{
+        "replyMessage":[
+            "Tupperware tiene el 30% de descuento✨✨, se ingresa un pedido cada 3 semanas. Ya que el catálogo es renovado cada 21 días \n",
+            "En whatsapp se indica para ingresar pedido global. Tarda 15 días en llegar✅"
+        ],
+        "media":"tupper.jpg",
+        "trigger":null
+    },
+    "STEP_5":{
+        "replyMessage":[
+            "Kuul lo manejamos de la siguiente manera \n"
+            
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_6":{
+        "replyMessage":[
+            "Más de 4 años nos respaldan en el mundo de las ventas🥰🥰\n",
+            "Contamos con local en el pleno centro de Tapachula✅ \ncon envíos a toda Guatemala✅",
+            "referencias 100% reales✅ *Somos Wismos, un placer atenderle*😸😸"
+            
+        ],
+        "media":"referencias.jpg",
+        "trigger":null
+    },
+    "STEP_7":{
+        "replyMessage":[
+            "Gracias por contactarnos✨\n"
+        ],
+        "media":"hablar.ogg",
+        "trigger":null
+    }
+}
